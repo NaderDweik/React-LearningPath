@@ -1,10 +1,13 @@
-import React from "react";
-import NewComp from "./NewComp";
+import ColorPicker from "./ColorPicker.jsx";
+import Update03 from "./update.jsx";
 
 function App() {
   return (
     <div>
-      <NewComp />
+
+<Update03/>
+
+
     </div>
   );
 }

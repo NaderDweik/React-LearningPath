@@ -1,11 +1,12 @@
-import ImageClick from "./ImageClick";
-import UseState from "./CounterUsingState";
+import React from "react";
+import NewComp from "./NewComp";
 
 function App() {
-    
-
-    return (<UseState/>); 
-   
+  return (
+    <div>
+      <NewComp />
+    </div>
+  );
 }
 
 export default App;

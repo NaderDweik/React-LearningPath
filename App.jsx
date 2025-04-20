@@ -1,9 +1,10 @@
 import ImageClick from "./ImageClick";
+import UseState from "./CounterUsingState";
 
 function App() {
     
 
-    return (<ImageClick/>); 
+    return (<UseState/>); 
    
 }
 
